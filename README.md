@@ -1,6 +1,7 @@
 # markdown语法实例
 ## 嵌入代码
-``` Java code
+这是一个`markdown`的学习笔记
+``` java
 public class HelloWorld{
     public static void main(String[] args){
         System.out.println("HelloWorld!");
